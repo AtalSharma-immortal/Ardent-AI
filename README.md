@@ -181,7 +181,7 @@ src/
 
 ## Author
 
-**Divyansh** — Founder & CEO of Ardent
+**Atal** — Founder & CEO of Ardent
 
 ---
 
